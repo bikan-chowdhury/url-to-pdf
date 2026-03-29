@@ -7,10 +7,11 @@
     "test": "node test.js"
   },
   "keywords": [
-    "puppeteer",
     "pdf",
-    "url-to-pdf",
-    "web-to-pdf",
+    "url to pdf",
+    "url to pdf converter",
+    "webpage to pdf",
+    "web to pdf",
     "converter"
   ],
   "author": "Bikan Chowdhury",

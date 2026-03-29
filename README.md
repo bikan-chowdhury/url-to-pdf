@@ -12,7 +12,7 @@ Check out a live web implementation of this package at:
 Install `url-to-pdf` using npm:
 
 ```bash
-npm install url-to-pdf
+npm i url-to-pdf-converter
 ```
 
 ## 🚀 Quick Start
