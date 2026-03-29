@@ -1,5 +1,5 @@
 {
-  "name": "url-to-pdf",
+  "name": "url-to-pdf-converter",
   "version": "1.0.0",
   "description": "A simple NPM package to convert any webpage into a PDF file using its URL",
   "main": "index.js",
@@ -15,6 +15,14 @@
   ],
   "author": "Bikan Chowdhury",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikan-chowdhury/url-to-pdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bikan-chowdhury/url-to-pdf/issues"
+  },
+  "homepage": "https://github.com/bikan-chowdhury/url-to-pdf#readme",
   "type": "commonjs",
   "dependencies": {
     "puppeteer": "^24.40.0"
