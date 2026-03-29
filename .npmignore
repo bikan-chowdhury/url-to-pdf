@@ -1,0 +1,6 @@
+# Ignore test script
+test.js
+
+# Ignore generated outputs
+*.pdf
+my-pdfs/

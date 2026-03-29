@@ -1,0 +1,22 @@
+{
+  "name": "url-to-pdf",
+  "version": "1.0.0",
+  "description": "A simple NPM package to convert any webpage into a PDF file using its URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "pdf",
+    "url-to-pdf",
+    "web-to-pdf",
+    "converter"
+  ],
+  "author": "Bikan",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^24.40.0"
+  }
+}
