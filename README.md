@@ -4,12 +4,12 @@ A simple NPM package to convert any webpage into a PDF file using its URL. Under
 
 ## 🌐 Live Demo
 
-Check out a live web implementation of this package at:
+Live web implementation of this package:
 **[https://itsave.app/url-to-pdf-converter](https://itsave.app/url-to-pdf-converter)**
 
 ## 📦 Installation
 
-Install `url-to-pdf` using npm:
+Install `url-to-pdf-converter` using npm:
 
 ```bash
 npm i url-to-pdf-converter
@@ -24,7 +24,7 @@ Here are different ways you can use this package in your project.
 If you prefer using Promises, you can structure your code like this:
 
 ```javascript
-const convertUrlToPdf = require("url-to-pdf");
+const convertUrlToPdf = require("url-to-pdf-converter");
 
 const url = "https://example.com";
 
@@ -38,7 +38,7 @@ convertUrlToPdf(url)
 If your project uses modern syntax, `async/await` is a great way to use the package:
 
 ```javascript
-const convertUrlToPdf = require("url-to-pdf");
+const convertUrlToPdf = require("url-to-pdf-converter");
 
 async function generatePDF() {
   try {
@@ -57,7 +57,7 @@ generatePDF();
 You can automatically save the PDF to a specific folder using the `outputDir` option:
 
 ```javascript
-const convertUrlToPdf = require("url-to-pdf");
+const convertUrlToPdf = require("url-to-pdf-converter");
 
 // This will automatically name the PDF based on the webpage's title
 // and save it inside the 'my-pdfs' folder.
